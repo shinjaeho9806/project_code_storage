@@ -1,0 +1,27 @@
+
+
+
+
+kNN
+[2] Cover, T. and Hart, P. (1967) Nearest Neighbor Pattern Classification. IEEE Transactions on Information Theory, 13, 21-27.
+<http://dx.doi.org/10.1109/TIT.1967.1053964>
+[3] Z.  Zhang,  “Introduction  to  machine  learning:  k-nearest  neighbors”,    Annals  of  translational  medicine,  vol.  4, no.  11,  pp.  218,  Jun.  2016.
+[4] Imandoust, S. B., & Bolandraftar, M. (2013). Application of k-nearest neighbor
+(knn) approach for predicting economic events: Theoretical
+background. International Journal of Engineering Research and
+Applications, 3(5), 605-610.
+
+
+결정트리
+[5] Quinlan, J.R. (1986) Induction of Decision Trees. Machine Learning, 1, 81-106. 
+<http://dx.doi.org/10.1007/BF00116251>
+[6] Tso, Geoffrey K.F. and Yau, Kelvin K.W., 2007. "Predicting electricity energy consumption: A comparison of regression analysis, decision tree and neural networks," Energy, Elsevier, vol. 32(9), pages 1761-1768.
+
+랜덤포레스트
+[7]  T. K. Ho. Random decision forests. In Proceedings of 3rd International
+Conference on Document Analysis and Recognition, volume 1, pages 278–
+282 vol.1, Aug. 1995
+[8] Breiman, L. (2001) Random Forests. Machine Learning, 45, 5-32.  
+<http://dx.doi.org/10.1023/A:1010933404324>
+[9] Segal, M. R. (2004). Machine Learning Benchmarks and Random Forest Regression. UCSF: Center for Bioinformatics and Molecular Biostatistics. Retrieved from https://escholarship.org/uc/item/35x3v9t4
+[10] Ali,  J.,  Khan,  R.,  Ahmad,  N.,  and  Maqsood,  I.,  2012,  Random  Forests  and Decision  Trees,  International  Journal  of Computer  Science  Issues,  Vol.  9,  No. 5, pp. 272-278.
