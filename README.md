@@ -4,7 +4,7 @@
 * module_using_tip에 각각의 모듈 사용법을 기록해두었음
 
 # paper
-* Enhancing Summer Electricity Demand Forecasting Using Fourier Transform-Based Time Variables(2024)
+* Enhancing Summer Electricity Demand Forecasting Using Fourier Transform-Based Time Variables(2024)\nDOI
 * Study on the applicability of regression models and machine learning models for predicting concrete compressive strength(2024)
 * A study on a hybrid water quality prediction model using sequence to sequence learning based LSTM And machine learning(2024)
 * Enhancing Summer Electricity Demand Forecasting Using Fourier Transform-Based Time Variables(2024)
